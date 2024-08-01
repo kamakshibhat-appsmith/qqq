@@ -6,14 +6,17 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
+    "dynamicBindingPathList": [],
     "inputs": {
-      "input1": "1"
+      "input1": "11111",
+      "input2": "2"
     },
     "moduleInputs": {
+      "gdjwdcxfjr": {},
       "ztmdorfsvm": {}
     },
     "name": "QueryModule11",
     "pageId": "Page1",
-    "version": "0.0.1"
+    "version": "0.0.3"
   }
 }
