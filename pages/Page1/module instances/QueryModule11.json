@@ -1,0 +1,19 @@
+{
+  "gitSyncId": "66ab3f21b383ac5bbf7262a4_097df702-47c6-4430-805b-554f6721aa0a",
+  "id": "Page1_QueryModule11",
+  "moduleUUID": "6f0cb5c7-c12d-4fa2-b805-16e3956ed193",
+  "packageUUID": "d659e1b7-61d2-4e99-a456-61fa51ab2e4f",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "1"
+    },
+    "moduleInputs": {
+      "ztmdorfsvm": {}
+    },
+    "name": "QueryModule11",
+    "pageId": "Page1",
+    "version": "0.0.1"
+  }
+}
